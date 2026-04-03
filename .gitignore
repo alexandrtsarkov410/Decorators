@@ -1,0 +1,5 @@
+.gigaide/
+.idea/
+.venv/
+*.iml
+.__pycache__/
